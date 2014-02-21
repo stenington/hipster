@@ -1,0 +1,15 @@
+{
+  "name": "hipster",
+  "description": "Hipster ipsum from the command-line",
+  "version": "0.0.1",
+  "private": true,
+  "bin": {
+    "hipster": "./index.js"
+  },
+  "dependencies": {
+    "minimist": "0.0.7",
+    "request": "~2.34.0",
+    "copy-paste": "~0.1.0",
+    "colors": "0.6.2"
+  }
+}
